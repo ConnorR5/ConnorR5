@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @ConnorR5
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning various Information Science concepts applicable to my interests
-- 💞️ I’m not looking to collaborate on anything yet, but hopefully will be ready to soon
-- 📫 You can reach me through my instagram connor.rydel, and I'll give you my phone number there
+What get's Measured get's Managed
+
+Coast'n
